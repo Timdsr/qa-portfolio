@@ -1,0 +1,30 @@
+Bug Report
+
+ Summary
+No error message displayed when login fails with invalid password.
+
+Environment
+- Web application
+- Browser: Chrome
+- OS: Windows
+
+Preconditions
+- User is on the login page
+- A valid email exists
+
+Steps to Reproduce
+1. Enter a valid email
+2. Enter an invalid password
+3. Click on "Login"
+
+Expected Result
+An error message is displayed indicating invalid credentials.
+
+Actual Result
+The page reloads and no error message is displayed.
+
+Priority
+High
+
+Severity
+Major
