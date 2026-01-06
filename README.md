@@ -13,7 +13,6 @@ This repository contains a QA junior portfolio based on realistic testing scenar
 - Google Sheets
 - Postman
 - Xray (basic)
-- GitHub
 
 ## Content
 - **test-cases/**: Manual test cases created from user stories
